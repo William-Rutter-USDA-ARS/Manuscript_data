@@ -1,7 +1,7 @@
 # Manuscript_data
 A repository for raw data and analysis scripts that have been described in published manuscripts
 
-#Files:
+#Files for Rutter et.al. Plant Disease 2020:
 
 Menterolobii_NC.1_combinded_sweetpotato_screens.xlsx # an Excel spread sheet containing all of the sweetpotato screening data for Meloidogyne enterolobii isolate 'NC.1'
 
